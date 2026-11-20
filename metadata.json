@@ -1,0 +1,6 @@
+{
+  "name": "2048",
+  "description": "A smooth, tactile animated 2048 puzzle game with fluid tile physics, undo history, board size options, and synthesized audio feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
